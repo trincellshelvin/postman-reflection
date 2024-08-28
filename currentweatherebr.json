@@ -1,0 +1,53 @@
+{
+    "count": 1,
+    "data": [
+        {
+            "app_temp": 100.5,
+            "aqi": 42,
+            "city_name": "Baton Rouge",
+            "clouds": 92,
+            "country_code": "US",
+            "datetime": "2024-08-27:00",
+            "dewpt": 75.8,
+            "dhi": 39,
+            "dni": 336,
+            "elev_angle": 6.11,
+            "ghi": 65,
+            "gust": 5.8,
+            "h_angle": -90,
+            "lat": 30.4485,
+            "lon": -91.13,
+            "ob_time": "2024-08-27 23:49",
+            "pod": "d",
+            "precip": 0,
+            "pres": 1013,
+            "rh": 65,
+            "slp": 1016,
+            "snow": 0,
+            "solar_rad": 25.8,
+            "sources": [
+                "rtma",
+                "radar",
+                "satellite"
+            ],
+            "state_code": "LA",
+            "station": "AV521",
+            "sunrise": "11:38",
+            "sunset": "00:32",
+            "temp": 89.1,
+            "timezone": "America/Chicago",
+            "ts": 1724802593,
+            "uv": 1,
+            "vis": 9.9,
+            "weather": {
+                "code": 804,
+                "icon": "c04d",
+                "description": "Overcast clouds"
+            },
+            "wind_cdir": "S",
+            "wind_cdir_full": "south",
+            "wind_dir": 186,
+            "wind_spd": 2
+        }
+    ]
+}
