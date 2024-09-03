@@ -8,7 +8,7 @@ There is are specific places to use and store the token for use with all future 
 ## Token Setup and Use Screenshots
 ![Token Key1](https://res.cloudinary.com/dgls7u3iq/image/upload/v1724974207/usertokensetup.github.postman_gjxivm.jpg)
 ![Token Key2](https://res.cloudinary.com/dgls7u3iq/image/upload/v1724974207/usertokensetuprepositorypermissions.github.postman_z4jflo.jpg)
-![Tokey Key3](https://res.cloudinary.com/dgls7u3iq/image/upload/v1724974207/usertokensetuptokenexpiration.github.postman_oix8th.jpg)
+![Token Key3](https://res.cloudinary.com/dgls7u3iq/image/upload/v1724974207/usertokensetuptokenexpiration.github.postman_oix8th.jpg)
 ![Token Key4](https://res.cloudinary.com/dgls7u3iq/image/upload/v1724974207/usertokensetuprepositoryaccess.github.postman_mzgpbq.jpg)
 ![Token Key5](https://res.cloudinary.com/dgls7u3iq/image/upload/v1724974207/usertokensetupauthorization.github.postman_ay21ny.jpg)
 ## Get Requests
